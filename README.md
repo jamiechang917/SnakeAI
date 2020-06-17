@@ -1,7 +1,7 @@
 # SnakeAI
 
 ## Introduction
-Using Python3 with Genetic Algorithm to play the classic game "Snake Game."
+Using Python3 with Genetic Algorithm to play the classic game "Snake Game."<br>
 It is written by pure Numpy, no other packages/modules requested.
 
 ## Request Packages
